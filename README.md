@@ -48,6 +48,17 @@ Questions, bugs and ideas: [open an issue](https://github.com/OsmanMohamed21/Rev
 Please attach `%LOCALAPPDATA%\RevitBatchStudio\Logs\startup.log` or the run's log from the **Runs** tab when
 something fails.
 
+<img width="1906" height="873" alt="image" src="https://github.com/user-attachments/assets/0aba99b8-5f8f-47c0-9fa5-04bfe4d3ea53" />
+
+<img width="1365" height="854" alt="image" src="https://github.com/user-attachments/assets/894e9dea-7018-4882-9c4e-d337f612b92c" />
+
+<img width="1773" height="864" alt="image" src="https://github.com/user-attachments/assets/36881653-2a77-4979-a1d6-bdb34e60aac8" />
+
+<img width="595" height="495" alt="image" src="https://github.com/user-attachments/assets/8d48b91b-777e-4ccd-bba6-62ddf8d77cc5" />
+
+<img width="615" height="513" alt="image" src="https://github.com/user-attachments/assets/b149551e-53bd-4bc1-bf52-c82878c979a5" />
+
+
 ## Author
 Designed and developed by **Eng. Othman Muhammad** — [linkedin.com/in/osmanz](https://www.linkedin.com/in/osmanz/) ·
 [bimminutes.com](https://bimminutes.com)
