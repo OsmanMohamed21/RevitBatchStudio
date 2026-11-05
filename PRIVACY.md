@@ -21,7 +21,6 @@ Apps Script web app):
 - **Purpose:** to analyse how the app is used, to diagnose failures and to improve the app.
 - **Access:** the developer only (Eng. Othman Muhammad). The data is not sold or shared with third parties. The sheet
   is stored by Google, whose terms apply.
-- **Retention:** up to 24 months, then deleted.
 
 ## Your choices
 To stop sending data, stop using the app. To ask for a copy of your data or for its deletion, contact the developer
